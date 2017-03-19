@@ -1,4 +1,4 @@
-# [Student Athlete Engineering Mentors](http://people.virginia.edu/~jmb3qr/jeannieseuropeanadventure.html) 
+# [European Adventure Site](http://people.virginia.edu/~jmb3qr/jeannieseuropeanadventure.html) 
 
 ## About
 
@@ -7,7 +7,7 @@
 
 ## Specifics
 
-* I coded this website from scratch
+* I coded this website from scratch using HTML and CSS
 * This website is hosted on my UVA server space
 
 ## Creator
