@@ -1,0 +1,48 @@
+.title h1 {
+  font-size: 60;
+  border: 4px solid Black;
+  background-color: #C2DAE7;
+  margin-left: 20px;
+  text-align: center;
+}
+
+.nav a {
+  color: #2E596E;
+  font-size: 15px;
+  padding: 14px 10px;
+}
+
+.nav li {
+  display: inline;
+  padding: 10px;
+}
+
+
+.blog {
+  border: 1px solid black;
+  margin-bottom: 20px;  
+  margin-left: 20px;
+}
+
+.blog p {
+  padding-left: 120px;
+  padding-right: 120px;
+  text-align: center;
+}
+
+.blog img {
+  display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+
+.blog h1 {
+  color: #2E596E;
+   font-family: 'Shift', sans-serif;
+  text-align: center;
+}
+
+
+.blog {
+table-align: center;
+}
